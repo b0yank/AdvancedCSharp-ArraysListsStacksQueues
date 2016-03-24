@@ -1,0 +1,1 @@
+D:\1\Programming stuff\SoftUni\Programming Fundamentals\Advanced C#\ArraysListsStacksQueues\09. StuckNumbers\bin\Debug\_09.StuckNumbers.exe.config

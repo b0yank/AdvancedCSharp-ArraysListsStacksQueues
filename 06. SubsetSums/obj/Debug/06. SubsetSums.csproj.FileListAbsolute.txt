@@ -1,0 +1,1 @@
+D:\1\Programming stuff\SoftUni\Programming Fundamentals\Advanced C#\ArraysListsStacksQueues\06. SubsetSums\bin\Debug\_06.SubsetSums.exe.config
