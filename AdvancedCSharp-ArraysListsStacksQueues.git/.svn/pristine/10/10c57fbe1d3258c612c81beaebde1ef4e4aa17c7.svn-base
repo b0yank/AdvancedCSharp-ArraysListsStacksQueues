@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ArraysListsStacksQueues-Homework")]
+[assembly: AssemblyTitle("08. LegoBlocks")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("ArraysListsStacksQueues-Homework")]
+[assembly: AssemblyProduct("08. LegoBlocks")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("397d6da6-d867-4c1a-bd84-517d8451bc50")]
+[assembly: Guid("1e38baab-1b24-425c-93da-f6bec02230b8")]
 
 // Version information for an assembly consists of the following four values:
 //
